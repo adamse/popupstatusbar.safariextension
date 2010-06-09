@@ -1,0 +1,33 @@
+.StatusBarDiv {
+	display: none;
+	overflow: hidden;
+	width: auto;
+	z-index: 999999999;
+	
+	background-color: rgba(185,185,185,0.8) !important;
+	color: #333;
+	
+	position: fixed !important;
+	bottom: 0px !important;
+	left: 0px !important;
+	margin: 0 !important;
+	padding: 3px 5px 5px 5px !important;
+	
+	font-family: 'Lucida Grande', sans-serif !important;
+	font-weight: bold !important;
+	font-size: 11px !important;
+	line-height: 14px;
+	
+	text-align: left;
+	text-transform: lowercase;
+	text-decoration: none;
+	text-overflow:ellipsis;
+	vertical-align: bottom;
+	white-space:nowrap;
+	text-shadow: rgba(255,255,255,0.4) 1px 1px 0px;
+	
+	max-height: 1em;
+	max-width: 80%;
+	
+	-webkit-border-top-right-radius: 5px;
+}
