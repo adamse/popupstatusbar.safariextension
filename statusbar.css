@@ -16,7 +16,7 @@
 	font-family: 'Lucida Grande', sans-serif !important;
 	font-weight: bold !important;
 	font-size: 11px !important;
-	line-height: 14px;
+	line-height: 14px !important;
 	
 	text-align: left;
 	text-transform: lowercase;
